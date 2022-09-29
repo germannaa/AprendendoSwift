@@ -67,5 +67,5 @@ print(pessoinha2.nome)
  * Quando Propriedades do modelo também são **Value Types**
  * Quando o modelo não precisa herdar nenhuma propriedade ou comportamentos de modelos existentes ( Pode ser alcançado através de protocolos também )
  * Quando os dados encapsulados devem ser copiados e não referenciados
- */
+ */ 
 
